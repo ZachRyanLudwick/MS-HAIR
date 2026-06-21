@@ -1,0 +1,56 @@
+# Maddison Shepherd Hair
+
+> A Bedfordshire hair stylist and colourist portfolio website for Maddison Shepherd, focused on balayage, blondes, gloss colour, foilyage, cut and blow-dry services, effortless waves, and bespoke hair transformations.
+
+## Primary URL
+
+- https://maddisonshepherd.com/
+
+## Business Summary
+
+Maddison Shepherd is a hair stylist and colourist serving clients in Bedfordshire. The site presents her selected hair portfolio, service list, consultation-led approach, booking enquiry route, and social/contact links.
+
+## Core Services
+
+- Full Head Balayage
+- Foilyage / Full Highlights
+- Gloss & Toner Refresh
+- Cut & Blow-dry
+- Blow-dry & Waves
+- Bespoke hair colour consultations
+- Lived-in colour and low-maintenance grow-out planning
+- Hair transformation styling and aftercare guidance
+
+## Key Website Sections
+
+- Home: https://maddisonshepherd.com/
+- Selected Work: https://maddisonshepherd.com/#work
+- About / Why Book: https://maddisonshepherd.com/#about
+- Services: https://maddisonshepherd.com/#services
+- FAQ / Service Details: https://maddisonshepherd.com/#faq
+- Booking Enquiry: https://maddisonshepherd.com/#book
+
+## Search Concepts
+
+- Bedfordshire hair stylist
+- Bedfordshire hair colourist
+- Balayage Bedfordshire
+- Blonde specialist
+- Gloss colour
+- Toner refresh
+- Foilyage
+- Cut and blow-dry
+- Blow-dry waves
+- Lived-in colour
+- Hair transformation gallery
+- Luxury hair portfolio
+- Beauty brand website
+
+## Contact
+
+- Email: hello@maddisonshepherd.com
+- Instagram: https://instagram.com
+
+## Technical Notes
+
+This is a static HTML, CSS, and vanilla JavaScript website. It includes semantic HTML, descriptive image alt text, Open Graph metadata, Twitter card metadata, canonical URL, robots.txt, sitemap.xml, and Schema.org JSON-LD for HairSalon, Person, WebSite, WebPage, Service offers, and FAQPage.

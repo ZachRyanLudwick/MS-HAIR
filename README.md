@@ -17,7 +17,7 @@ The goal is simple: make the site feel premium enough for clients, memorable eno
 - **Conversion-focused booking journey** with sticky navigation, smooth anchor scrolling, a services section, and clear email/Instagram actions.
 - **Responsive static build** that works without a framework, build tool, CMS, or server.
 - **Accessible motion handling** with reduced-motion support and graceful fallbacks.
-- **SEO-aware copy structure** using descriptive headings, service keywords, image alt text, meta descriptions, and searchable README content.
+- **SEO and AI discovery layer** using descriptive headings, service keywords, image alt text, meta descriptions, canonical tags, social cards, Schema.org JSON-LD, `robots.txt`, `sitemap.xml`, and `llms.txt`.
 
 ## What This Shows I Can Do
 
@@ -52,6 +52,22 @@ hair stylist website, hair colourist portfolio, beauty salon website design, lux
 - `styles.css` - full visual system, responsive layout, animation styling, and editorial art direction
 - `main.js` - loader, smooth scrolling, custom cursor, reveal animations, parallax, marquee, counters, and image fallbacks
 - `images/` - portfolio photography used across the hero and gallery
+- `robots.txt` - search crawler access rules and sitemap location
+- `sitemap.xml` - crawlable URL index for search engines
+- `llms.txt` - AI-readable summary for LLM crawlers and assistant tools
+
+## SEO And AI Scanning
+
+The site includes:
+
+- Canonical URL: `https://maddisonshepherd.com/`
+- Open Graph and Twitter card metadata
+- `HairSalon`, `Person`, `WebSite`, `WebPage`, `Service`, and `FAQPage` JSON-LD schema
+- Local SEO copy for Bedfordshire hair stylist and colourist searches
+- FAQ content around services, pricing, patch tests, aftercare, and booking
+- `robots.txt` with sitemap discovery
+- `sitemap.xml` with the homepage and LLM summary
+- `llms.txt` for AI systems that look for a plain-text site overview
 
 ## Add Or Replace Photos
 
@@ -84,7 +100,8 @@ You can also open `index.html` directly, though a local server is better for tes
 - **Services:** edit the `<ul class="svc-list">` section.
 - **Prices:** uncomment and update the hidden service price spans if needed.
 - **Stats:** edit the `data-count` values in the `.stats` section.
-- **SEO:** update the `<title>`, meta description, Open Graph title, and Open Graph description in `index.html`.
+- **SEO:** update the `<title>`, meta description, Open Graph title, Open Graph description, JSON-LD schema, `sitemap.xml`, `robots.txt`, and `llms.txt`.
+- **Live URL:** replace `https://maddisonshepherd.com/` everywhere if the final deployed domain is different.
 
 ## Deploy
 

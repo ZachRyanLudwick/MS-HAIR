@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maddisonshepherd.com/sitemap.xml
+
+# AI-readable site summary:
+# https://maddisonshepherd.com/llms.txt
